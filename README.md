@@ -1,6 +1,5 @@
 
 # Design and Implementation of a User Portrait Analysis and Interaction System Based on Langchain
-### (基于Langchain的用户画像分析与交互系统的设计与实现)
 ![image](https://img.shields.io/badge/Python-3.11-blue.svg)
 
 ---
